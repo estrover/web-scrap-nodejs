@@ -1,5 +1,2 @@
-*.png
-*.jpg
-*.jpeg
-
+temp/*
 /node_modules/*
